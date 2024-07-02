@@ -6,24 +6,24 @@ const textoResultado = document.querySelector(".texto-resultado") ;
 
 const perguntas =[
     {
-        enunciado : "Pergunta1",
+        enunciado : "Em sua cidade ocorrem assédios e desrespeitos às mulheres e aos assentos prioritários?",
         alternativas : [
-            "Alternativa1",
-            "Alternativa2"
+            "Sim, acontece com frequência. Estabelecer assentos  e portas de entrada e saída prioritários para gestantes, idosos, crianças e deficientes.",
+            "Não ou raramente."
         ]
     },
     {
-        enunciado : "Pergunta2",
+        enunciado : "O desmatamento no Brasil atingiu índices alarmantes., tornando-se praticamente cultural. Os efeitos estão sendo sentidos no dia-a-dia da população. É possível minimizar o desmatamento no país?",
         alternativas : [
-            "Alternativa1",
-            "Alternativa2"
+            "Sim, por intermédio de políticas de fiscalização e controle ambiental rigoroso",
+            "Não, porque as leis não são cumpridas"
         ]
     },
     {
-        enunciado : "Pergunta3",
+        enunciado : "Qual as consequências do uso de agrotóxico na agricultura?",
         alternativas : [
-            "Alternativa1",
-            "Alternativa2"
+            "Há um impacto muito grande no meio ambiente, causando prejuízos ao solo, água e atmosfera. ",
+            "A produção das espécies  é maior, reduz o controle de pragas, aumenta a distribuição da produção."
         ]
     }
 ] ;
